@@ -1,0 +1,209 @@
+body{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+  
+}
+#home{
+  background-image: url("../assets/img/5559852.jpg");
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: start;
+  padding: 9% 5%;
+  color: #FFF;
+}
+
+
+
+#acerca{
+  background-color: #FFF;
+}
+.app_fondo{
+  background-image: url("../assets/img/4909638.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding: 4% 3%;
+  color: #06b6d1;
+}
+.bi{
+  color: #FFF;
+  
+
+}
+.col-6{
+  padding-top: 9%;
+}
+
+
+
+
+#nuestros_servicios{
+  background-color:#ffffff;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: left;
+  padding: 3% 15%;
+  color: #e84444;
+  opacity: 70%;
+}
+
+.Texto1{
+  font-size: 300%;
+  color: #151515;
+}
+
+#imprimir{
+  background-color:#ffffff;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding: 2% 15%;
+  color: #fefefe;
+  opacity: 70%;
+}
+
+#fondo_imprimir{
+  background-color: #949697;
+  padding: 6% 1%;
+}
+#footer{
+  background-color: #033b46;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  color: #fefefe;
+  padding: 1%;
+
+}
+
+.img-fluid{
+  width: 100% \9;
+}
+.footer_letra{
+  font-size: 100%;
+
+}
+
+.parrafo_footer{
+font-size: 80%;
+
+}
+
+#footer2{
+  background-color: #080808;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  padding: 1%;
+  font-size: 80%;
+  color: #fefefe;
+}
+
+#Pagina2{
+  background-color: #f1f1f1;
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: start;
+  padding: 12% 5%;
+  color: #070707;
+  
+}
+
+#Beneficios{
+  background-color: #ffffff;
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: start;
+  padding: 9% 5%;
+  color: #070707;
+  font-size: 150%;
+}
+
+.color_icono{
+  color: #070707;
+}
+
+#Precio{
+  background-color: #d3d3d3;
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: start;
+  padding: 3% 5%;
+  color: #070707;
+  font-size: 150%;
+}
+
+.texto_descripcion{
+  font-size: 70%;
+}
+
+.texto_precio{
+  font-size: 80%;
+}
+
+#pago{
+  background-color: #f3f3f3;
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: start;
+  padding: 3% 5%;
+  color: #070707;
+  
+
+}
+
+.tamanoimg{
+  width: 30%;
+}
+
+#objetivo{
+  background-color: #ffffff;
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: start;
+  padding: 9% 5%;
+  color: #070707;
+  font-size: 150%;
+
+}
+
+#filosofia{
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: start;
+  padding: 10% 5%;
+  color: #070707;
+}
+
+#Preguntas{
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: start;
+  padding: 7% 7%;
+  color: #070707;
+}
+
+#equipo{
+  background-position: center ;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: start;
+  padding: 3% 2%;
+  color: #070707;
+}
+
